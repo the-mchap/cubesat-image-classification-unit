@@ -21,21 +21,6 @@ CubeSat missions are bottlenecked by downlink bandwidth. The **Image Classificat
 
 ---
 
-## 🗂️ Repository Structure
-```
-CubeSat-Image-Classification-Unit/
-├── 📁 docs/ # Project documentation & datasheets
-├── 📁 firmware/ # PIC microcontroller code (CCS C)
-├── 📁 hardware/ # PCB schematics & CAD (when available)
-├── 📁 src/ # Raspberry Pi source code (Python)
-├── 📁 simulation/ # Ground-based testing simulator
-├── 📁 tests/ # Unit and integration tests
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## ⚙️ Hardware & Software
 
 **Hardware**
