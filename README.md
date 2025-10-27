@@ -52,8 +52,8 @@ source venv/bin/activate  # On Windows: `venv\Scripts\activate`
 # 3. Install Python dependencies
 pip install -r requirements.txt
 
-# 4. Run the main simulator
-python3 simulation/icu_main.py
+# 4. Run the main 
+python3 src/main.py
 ```
 ---
 
