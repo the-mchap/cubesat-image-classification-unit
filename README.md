@@ -42,8 +42,8 @@ This guide will get the ground simulation running on your local machine.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/the-mchap/CubeSat-Image-Classification-Unit-
-cd CubeSat-Image-Classification-Unit-
+git clone https://github.com/the-mchap/cubesat-image-classification-unit
+cd cubesat-image-classification-unit
 
 # 2. (Optional) Create and activate a virtual environment
 python3 -m venv venv
